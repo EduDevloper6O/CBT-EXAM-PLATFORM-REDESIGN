@@ -87,7 +87,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>3mPR6Dq7J7iqr8gGVK3+AWLLMrs/mvho1dh0MQy8VBA=</dsig:DigestValue>
+      <dsig:DigestValue>LULoyTIAQ20xlJjb40W5CWR3B0xuUM3dsy8oMYO7hNM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="CBT EXAM PLATFORM REDESIGN.exe" size="166400">
